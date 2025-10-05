@@ -1,0 +1,8 @@
+{
+    "guest@example.com": {
+        "username": "Guest",
+        "projects": [],
+        "has_downloaded": false,
+        "last_login": "2025-10-05"
+    }
+}

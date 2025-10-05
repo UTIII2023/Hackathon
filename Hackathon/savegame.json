@@ -1,0 +1,7816 @@
+{
+    "tiles": [
+        {
+            "pos": [
+                0,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                0
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                30
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                60
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                90
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                120
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                150
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                150
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                150
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                150
+            ],
+            "farm": true,
+            "humidity": 68.47500000000132,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                150
+            ],
+            "farm": true,
+            "humidity": 69.47500000000126,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                150
+            ],
+            "farm": true,
+            "humidity": 72.65000000000116,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                150
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": "EnergyFactory"
+        },
+        {
+            "pos": [
+                390,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                180
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                180
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": "wheat",
+            "growth_stage": 1,
+            "growth_time": 24.03799999999934,
+            "withered": true,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                180
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                180
+            ],
+            "farm": true,
+            "humidity": 66.25500000000142,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                180
+            ],
+            "farm": true,
+            "humidity": 73.79500000000111,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                180
+            ],
+            "farm": true,
+            "humidity": 74.78500000000106,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                180
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                210
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                210
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                210
+            ],
+            "farm": true,
+            "humidity": 0,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                210
+            ],
+            "farm": true,
+            "humidity": 67.30500000000139,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                210
+            ],
+            "farm": true,
+            "humidity": 70.46000000000122,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                210
+            ],
+            "farm": true,
+            "humidity": 71.44000000000119,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                210
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                240
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                270
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                300
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                330
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                360
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                390
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                420
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                450
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                480
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                510
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                540
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                0,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                30,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                60,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                90,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                120,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                150,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                180,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                210,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                240,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                270,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                300,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                330,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                360,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                390,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                420,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                450,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                480,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                510,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                540,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                570,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                600,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                630,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                660,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                690,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                720,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                750,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                780,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                810,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                840,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        },
+        {
+            "pos": [
+                870,
+                570
+            ],
+            "farm": false,
+            "humidity": 100,
+            "planted_seed": null,
+            "growth_stage": 0,
+            "growth_time": 0,
+            "withered": false,
+            "building": null
+        }
+    ],
+    "inventory_seeds": {},
+    "inventory_buildings": {},
+    "currencies": {
+        "Money": 45,
+        "Energy": 110
+    },
+    "start_time": 1759663944.3062267,
+    "environment": {
+        "temperature": 28.292739700251083,
+        "humidity": 54.13796867835654,
+        "soil_moisture": 74.57475603613234
+    }
+}
