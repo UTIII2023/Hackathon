@@ -4,5 +4,6 @@ json
 random
 datetime
 hashlib
-plotly
+plotly.express
 subprocess
+datetime
