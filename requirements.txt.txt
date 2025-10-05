@@ -4,3 +4,4 @@ json
 random
 datetime
 hashlib
+plotly
