@@ -1,7 +1,7 @@
-# Dash Board.py
 import streamlit as st
 import json
 import os
+import subprocess
 import random
 import time
 import plotly.express as px
@@ -10,9 +10,9 @@ from datetime import datetime
 # -----------------------
 # Config / Paths
 # -----------------------
-THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+THIS_DIR = os.path.dirname(os.path.abspath(_file_))
 USER_FILE = os.path.join(THIS_DIR, "user_data.json")
-SIM_EXE_PATH = os.path.join(THIS_DIR, "hehehe.exe")
+SIM_EXE_PATH = os.path.join(THIS_DIR, r"c:\Users\yusuf\OneDrive\Masaüstü\Hackathon\Game\dist\main.exe")
 
 # -----------------------
 # Load & Save user_data.json
@@ -226,26 +226,17 @@ else:
                     st.rerun()
 
                 # Delete project
-                if confirm_delete_key not in st.session_state:
-                    st.session_state[confirm_delete_key] = False
-                if not st.session_state[confirm_delete_key]:
-                    if st.button("🗑️ Delete", key=key_prefix+"delete"):
-                        st.session_state[confirm_delete_key] = True
-                else:
-                    st.warning(f"Are you sure you want to delete '{proj['name']}'? This cannot be undone.")
-                    col_yes, col_no = st.columns(2)
-                    with col_yes:
-                        if st.button("Yes, Delete", key=key_prefix+"delete_yes"):
-                            active_user["projects"].pop(idx)
-                            user_data[active_email] = active_user
-                            save_user_data(user_data)
-                            st.warning("Project deleted.")
-                            st.rerun()
-                    with col_no:
-                        if st.button("Cancel", key=key_prefix+"delete_no"):
-                            st.session_state[confirm_delete_key] = False
+# Assuming you already have THIS_DIR defined
+SIM_EXE_PATH = os.path.join(THIS_DIR, r"c:\Users\yusuf\OneDrive\Masaüstü\Hackathon\Game\dist\main.exe")
 
-            st.write("**Simulation Data (preview):**")
-            st.json(proj.get("game_data", {}), expanded=False)
-            if st.button(f"🚀 Launch {proj['name']}", key=key_prefix+"launch"):
-                st.info(f"Launching simulation for '{proj['name']}' (placeholder).")
+# Inside your Streamlit loop for projects:
+if st.button(f"🚀 Launch {proj['name']}", key=key_prefix+"launch"):
+    if os.path.exists(SIM_EXE_PATH):
+        try:
+            # Launch the .exe in a separate process
+            subprocess.Popen([SIM_EXE_PATH], shell=True)
+            st.success(f"Simulation '{proj['name']}' launched successfully!")
+        except Exception as e:
+            st.error(f"Failed to launch simulation: {e}")
+    else:
+        st.error("Simulation executable not found!")
